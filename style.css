@@ -1,0 +1,24 @@
+body {
+    display: flex;
+}
+
+.header {
+    display: flex;
+}
+
+.hero {
+    display: flex;
+}
+
+.img-showcase {
+    display: flex;
+}
+.quote {
+    display: flex;
+}
+.cta {
+    display: flex;
+}
+.footer {
+    display: flex;
+}
