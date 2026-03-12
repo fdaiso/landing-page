@@ -8,17 +8,30 @@ body {
 
 .hero {
     display: flex;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
 }
+
 
 .img-showcase {
     display: flex;
 }
+
 .quote {
     display: flex;
 }
+
 .cta {
     display: flex;
 }
+
 .footer {
+    display: flex;
+}
+
+.content {
     display: flex;
 }
