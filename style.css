@@ -24,6 +24,10 @@ body {
 
 .quote {
     display: flex;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-weight: 300;
+    font-size: 36px;
 }
 
 .cta {
@@ -32,6 +36,8 @@ body {
 
 .footer {
     display: flex;
+    background-color: #1F2937;
+    color: #E5E7EB;
 }
 
 .content {
